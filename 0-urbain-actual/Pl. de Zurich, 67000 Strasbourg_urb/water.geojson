@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::4326"}},"features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.75519587396404,48.5815005376428],[7.755089439846642,48.58144846679317],[7.75508943981175,48.581500535186166],[7.75519587396404,48.5815005376428]]]},"properties":{"ID_HYDRO":1,"ID_SOURCE":"w40472091"}}]}
